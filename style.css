@@ -1,0 +1,42 @@
+h1,h4{
+    text-align: center;
+}
+
+.over{
+    margin: 35px;
+    border: 5px solid black;
+    width: 95%;
+    height: 750px;
+
+}
+.row{
+    border: 3px solid black;
+    width: 90%;
+    height: 80%;
+    margin-left: 50px;
+    margin-top: 20px;
+}
+#mani{
+    background-color: rgb(247, 247, 251);
+    padding-top: 80px;
+
+}
+#jai{
+    background-color: rgb(249, 250, 246);
+    text-align: center;
+    font-size: x-large;
+    text-align: right;
+    padding: 60px;
+}
+#btn{
+width: 300px;
+column-gap: 100px;
+}
+img{
+    border-radius: 80%;
+}
+.bor{
+    border: 3px solid black;
+    padding: 30px;
+    margin: 70px;
+}
